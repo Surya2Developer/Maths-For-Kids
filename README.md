@@ -31,5 +31,4 @@ Run this at root folder - python -m http.server 8000
 
 Then open http://localhost:8000/index.html in your browser.
 
-
-https://github.com/Surya2Developer/Maths-For-Kids/blob/2fcd901b8958bf561bb9f124d4f3b1c48ac9aff5/demo/Math%20for%20Kids.mp4
+https://github.com/user-attachments/assets/062d1c5f-3334-4ad3-aed1-70b512d76d59
